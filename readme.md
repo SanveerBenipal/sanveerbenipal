@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanveer (Sunny)</h1>
-<h3 align="center">A passionate developer from Melbourne.</h3>
+<h3 align="center">servicestream.com.au</h3>
 
 - 🌱 I’m currently learning **Linux, C, Assembly**
 
